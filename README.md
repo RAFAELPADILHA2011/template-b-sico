@@ -6,7 +6,9 @@ Esse é um recurso para **estudantes**, para terem uma estrutura básica para cr
 
 - Após instalar esse projeto, abra o ***VScode*** e clique em **`"Arquivo"`**, e selecione na janela que for aberta, a opção de **`"Abrir Pasta..."`**.
 
+
 ![](img/delete/abrir-pasta.png)
+
 
 - Após isso, o **explorador de arquivos** será aberto, e você vai encontrar o caminho da pasta do projeto.
 
@@ -30,8 +32,24 @@ Bom agora que você conhece para que servem essas ferramentas, está na hora de 
 
 - 1º Passo: abra a pasta de seu projeto pelo ***VScode***, e após isso você notará que na barra esquerda a um simbolo abaixo da lupa com o nome de **_"Controle de Código-Fonte"_**, e quando clicar nele abrirá uma janela como está:
 
+
 ![](img/delete/init-repositório.png)
+
 
 - 2º Passo: ao clicar em **"inicializar repositório"**, o `git` será ativado e começara sua atividade, assim todos os arquivos que foram alterados do seu projetos serão registrados para futuramente serem serem salvos. (**OBS: esse passo só necessário fazer apenas uma vez**).
 
-- 3º Passo: agora para salvar e publicar, primeiro **crie uma conta** no site do `GitHub`, depois de estar logado
+- 3º Passo: agora para salvar e publicar, primeiro **crie uma conta** no site do `GitHub`, depois de estar logado, você será redirecionado para a tela inicial do `GitHub`, e na parte esquerda aparecerá uma barra como está:
+
+
+![](img/delete/new-rep-github.png)
+
+
+clique em **"new"** para criar um novo repositório, e depois aparecerá uma página com algumas especificações para seu repositório, entre elas as mais importantes são:
+
+
+![](img/delete/name-repo.png) ![](img/delete/add-readme.png)
+
+
+A primeiro campo importante será o nome do repositório, aquele que servirá como *nome da postagem do seu projeto*, e o segundo é para adicionar um arquivo **_README.md_** que nele você irá por todas as informações para o usuário, desde atualizações importantes, agradecimentos de forks de contribuidores se tiver, detalhes sobre para que serve e como usar seu projeto e para criar um bom e como funciona a estrutura de um **README** veja mais em *[Link](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)*.
+
+- 4º Passo: após preencher os campos com as informações necessárias,
