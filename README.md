@@ -50,7 +50,7 @@ clique em **"new"** para criar um novo repositório, e depois aparecerá uma pá
 ![](img/delete/name-repo.png) ![](img/delete/add-readme.png)
 
 
-A primeiro campo importante será o nome do repositório, aquele que servirá como *nome da postagem do seu projeto*, e o segundo é para adicionar um arquivo **_README.md_** que nele você irá por todas as informações para o usuário, desde atualizações importantes, agradecimentos de forks de contribuidores se tiver, detalhes sobre para que serve e como usar seu projeto e para criar um bom e como funciona a estrutura de um **README** veja mais em *[Link](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)*.
+A primeiro campo importante será o nome do repositório, aquele que servirá como *nome da postagem do seu projeto*, e o segundo é para adicionar um arquivo **_README.md_** que nele você irá por todas as informações para o usuário, desde atualizações importantes, agradecimentos de forks de contribuidores se tiver, detalhes sobre para que serve e como usar seu projeto, e para criar um bom e como funciona a estrutura de um **README** veja mais em *[Link](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)*.
 
 - 4º Passo: após preencher os campos com as informações necessárias, clique em **"new repository"** (botão está aí em baixo)
 
@@ -72,7 +72,7 @@ A primeiro campo importante será o nome do repositório, aquele que servirá co
  ![](img/delete/terminal.png)
 
 
- perceba que no canto direito do terminal um icone seguido de **"bash"**, caso esteja escrito algo que não seja "bash" clique no "+" e selecione "bash". Após a vereficação, clique na janela de comando (clique no "$") e siga as seguintes instruções. (**OBS: esse passo só necessário fazer apenas uma vez**).
+ perceba que no canto direito do terminal um icone seguido de **"bash"**, caso esteja escrito algo que não seja "bash" clique no "ˇ" e selecione "bash"/"git bash". Após a vereficação, clique na janela de comando (clique no "$") e siga as seguintes instruções. (**OBS: esse passo só necessário fazer apenas uma vez**).
 
 
 ```
